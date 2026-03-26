@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar",
+  "spider": "https://gh.llkk.cc/https://github.com/OnLineEagle/spider/blob/main/custom_spider.jar",
   "lives": [
     {
       "name": "直播ipv6",
