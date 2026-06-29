@@ -12,10 +12,18 @@
   ],
   "sites": [
     {
-      "key": "hsck",
-      "name": "🔞 hsck | 黄色仓库",
+      "key": "hsck01",
+      "name": "🔞 hsck | 黄色仓库01",
       "type": 3,
-      "api": "csp_hsck",
+      "api": "csp_hsck01",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hsck02s",
+      "name": "🔞 hsck | 黄色仓库02",
+      "type": 3,
+      "api": "csp_hsck02",
       "searchable": 1,
       "filterable": 1
     },
