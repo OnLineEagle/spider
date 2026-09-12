@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://github.com/OnLineEagle/spider/blob/main/custom_spider.jar",
+  "spider": "https://gitproxy.mrhjx.cn/https://github.com/OnLineEagle/spider/blob/main/custom_spider.jar",
   "lives": [
     {
       "name": "直播ipv6",
@@ -12,6 +12,14 @@
   ],
   "sites": [
     {
+      "key": "hsck03",
+      "name": "🔞 hsck | 黄色仓库03",
+      "type": 3,
+      "api": "csp_hsck03",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
       "key": "hsck01",
       "name": "🔞 hsck | 黄色仓库01",
       "type": 3,
@@ -20,7 +28,7 @@
       "filterable": 1
     },
     {
-      "key": "hsck02s",
+      "key": "hsck02",
       "name": "🔞 hsck | 黄色仓库02",
       "type": 3,
       "api": "csp_hsck02",
